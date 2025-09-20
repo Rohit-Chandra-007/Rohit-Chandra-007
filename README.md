@@ -45,6 +45,7 @@ National Institute of Technology, Uttarakhand (2017 – 2021)
 
 ## 🚀 Projects
 
+- **DR Map Explorer** — A Flutter showcase project that renders an interactive SVG map of the Dominican Republic, powered by Riverpod for state management and Freezed-based models.
 - **Workopia** — Laravel + PostgreSQL enterprise solution for productivity and workflows.  
 - **UPSC Blog App** — Flutter + Supabase community platform with secure auth and real‑time blog management.  
 - **Flutter OCR App** — Text extraction from PDFs/images using Google ML Kit OCR.  
